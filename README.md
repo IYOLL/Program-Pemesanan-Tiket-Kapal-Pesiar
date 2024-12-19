@@ -5,4 +5,5 @@ Fitur utama yang ditawarkan meliputi:
 - Pilihan Kapal Pesiar dan Jadwal: Menampilkan daftar kapal pesiar lengkap dengan jadwal keberangkatan yang fleksibel.
 - Klasifikasi Kabin: Beragam pilihan kabin mulai dari ekonomi hingga suite mewah, sesuai dengan kebutuhan pelanggan.
 - Harga per Orang: Informasi harga tiket yang transparan berdasarkan jenis kabin dan fasilitas yang dipilih.
+
 Program ini memberikan kemudahan, fleksibilitas, dan kenyamanan dalam memesan perjalanan kapal pesiar.
