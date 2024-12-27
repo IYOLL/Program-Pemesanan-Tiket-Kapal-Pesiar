@@ -10,15 +10,15 @@ Fitur utama yang ditawarkan meliputi:
 Program ini memberikan kemudahan, fleksibilitas, dan kenyamanan dalam memesan perjalanan kapal pesiar.
 
 ## Penjelasan Fitur
-### Tampilan Rute Perjalanan:
+#### 1. Tampilan Rute Perjalanan:
 Menampilkan pilihan rute perjalanan yang dapat dipilih oleh pengguna.
 Menggunakan gambar latar belakang yang relevan dengan tema kapal pesiar.
 
-### Tampilan Kapal dan Kabin:
+#### 2. Tampilan Kapal dan Kabin:
 Berdasarkan rute yang dipilih, pengguna dapat memilih kapal yang tersedia, beserta jadwal keberangkatannya.
 Pengguna juga memilih kelas kabin yang sesuai, dengan harga berbeda-beda.
 
-### Perhitungan dan Konfirmasi Pembayaran:
+#### 3. Perhitungan dan Konfirmasi Pembayaran:
 Menghitung total harga pesanan berdasarkan kelas kabin dan jumlah penumpang.
 Menampilkan total harga yang harus dibayar dan memungkinkan pengguna untuk mengonfirmasi pesanan.
 Daftar Pesanan:
@@ -27,5 +27,3 @@ Pengguna dapat melihat daftar pesanan yang sudah dibuat.
 Pengguna dapat menghapus atau memperbarui pesanan yang sudah ada.
 Penyimpanan Pesanan ke File Word:
 
-Semua pesanan yang dilakukan oleh pengguna akan disimpan dalam file Word (PemesananKapalPesiar.docx), sehingga dapat diakses dan diperbarui di masa mendatang.
-Program memeriksa file tersebut untuk memuat pesanan yang sudah ada ketika aplikasi dijalankan kembali.
