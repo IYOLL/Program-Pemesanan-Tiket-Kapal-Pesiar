@@ -27,3 +27,5 @@ Pengguna dapat melihat daftar pesanan yang sudah dibuat.
 Pengguna dapat menghapus atau memperbarui pesanan yang sudah ada.
 Penyimpanan Pesanan ke File Word:
 
+## Tampilan Menu
+![image](https://github.com/user-attachments/assets/ec0a690e-4cb9-4c7b-88e6-8c9fc6ed1c11)
