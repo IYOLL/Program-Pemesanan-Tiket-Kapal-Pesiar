@@ -1,3 +1,4 @@
+# UAP Pemrograman Lanjut
 # Program-Pemesanan-Tiket-Kapal-Pesiar
 Program ini dirancang untuk membantu pengguna dalam memesan tiket perjalanan kapal pesiar secara efisien.
 Fitur utama yang ditawarkan meliputi:
@@ -8,17 +9,16 @@ Fitur utama yang ditawarkan meliputi:
 
 Program ini memberikan kemudahan, fleksibilitas, dan kenyamanan dalam memesan perjalanan kapal pesiar.
 
-# Penjelasan Fitur
-Tampilan Rute Perjalanan:
-
+## Penjelasan Fitur
+### Tampilan Rute Perjalanan:
 Menampilkan pilihan rute perjalanan yang dapat dipilih oleh pengguna.
 Menggunakan gambar latar belakang yang relevan dengan tema kapal pesiar.
-Tampilan Kapal dan Kabin:
 
+### Tampilan Kapal dan Kabin:
 Berdasarkan rute yang dipilih, pengguna dapat memilih kapal yang tersedia, beserta jadwal keberangkatannya.
 Pengguna juga memilih kelas kabin yang sesuai, dengan harga berbeda-beda.
-Perhitungan dan Konfirmasi Pembayaran:
 
+### Perhitungan dan Konfirmasi Pembayaran:
 Menghitung total harga pesanan berdasarkan kelas kabin dan jumlah penumpang.
 Menampilkan total harga yang harus dibayar dan memungkinkan pengguna untuk mengonfirmasi pesanan.
 Daftar Pesanan:
